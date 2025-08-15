@@ -1,2 +1,10 @@
 # delta-demo
 This is a demo for git &amp; Github class.
+
+
+
+# Teacher 
+Shradha kapra
+
+# Student
+Yashwanth Sai
